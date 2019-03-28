@@ -10,3 +10,8 @@ https://www.canva.com/
 To create icon image sizes and image sets required for iOS and android
 
 https://appicon.co
+
+## Check iOS API Errors
+Search for errors in iOS with the Error code from debugger
+
+https://osstatus.com/
