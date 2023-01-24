@@ -29,6 +29,9 @@ Search for errors in iOS with the Error code from debugger
 ### [Check Auto Layout Failure](https://www.wtfautolayout.com)
 Search for errors in AutoLayout by Pasting your constraint error logs from debugger
 
+### [Instantly parse JSON in any language | Quicktype](https://app.quicktype.io)
+Using this tool you can easily parse JSON data to the required model
+
 
 
 
